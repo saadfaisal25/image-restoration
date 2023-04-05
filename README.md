@@ -1,1 +1,1 @@
-# ocr-project
+# image-restoration
